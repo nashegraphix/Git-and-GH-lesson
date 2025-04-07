@@ -18,6 +18,20 @@ def generate_payslip(employee_id, name, position, salary):
     c.save()
     print(f"Payslip generated for {name} (Employee ID: {employee_id})")
 
+
+
+
+
+
+jhvbkjjnnhiiuhnuhionoh
+
+
+
+
+
+
+
+
 def main():
     excel_file = "employees.xlsx"
     df = pd.read_excel(excel_file)
